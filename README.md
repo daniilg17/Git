@@ -1,4 +1,4 @@
-# 📌 Git for QA Engineers
+# 📌 Git
 
 **Git** is a version control system that allows you to track changes in a project, manage history, work with multiple versions of code, and facilitates collaboration within a team.
 
