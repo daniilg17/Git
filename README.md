@@ -50,4 +50,4 @@ git restore file.txt                                # Discard changes in file
 git reset HEAD file.txt                             # Unstage file
 git reset --hard                                    # Reset everything to last commit
 ```
-👀 Psst… Just so you know, there are awesome [Git Cheat Sheets](https://education.github.com/git-cheat-sheet-education.pdf) available
+👀 Pss… Just so you know, there are awesome [Git Cheat Sheets](https://education.github.com/git-cheat-sheet-education.pdf) available
