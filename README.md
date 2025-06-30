@@ -6,16 +6,6 @@ It is especially useful in testing: a QA engineer can use Git to maintain docume
 
 🔍 This repository contains essential Git commands that are regularly used by QA engineers in their daily work.
 
-
-## Navigation
-
-- [Creating and cloning](#Creating-and-cloning)
-- [Adding remote and pushing](#Adding-remote-and-pushing)
-- [Committing changes](#Committing-changes)
-- [Working with branches](#Working-with-branches)
-- [Status and logs](#Status-and-logs)
-- [Undoing changes](#Undoing-changes)
-
 ## Creating and cloning
 ```git
 git init project-name                               # Initialize a new Git repository
